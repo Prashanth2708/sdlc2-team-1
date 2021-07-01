@@ -83,8 +83,8 @@ To design a system which calculates various electrical and electronics parameter
 
 
 ## Low level Requirements
-| ID | Description | Status (Implemented/Future) |
-| ---- | ----------- | --------------------------- |
+| ID | Description |HLR|Status (Implemented/Future)| 
+| ---- | ----------- | --------------------------- |-----------|
 | LA01 | Finding Equivalent Impedance in Series RLC Circuit | Future |
 | LA02 | Finding Power Factor in Series RLC Circuit | Future |
 | LA03 | Finding Equivalent Capacitance | Future |
@@ -94,6 +94,6 @@ To design a system which calculates various electrical and electronics parameter
 | LA07 | Voltage Divsion Calculation | Future |
 | LA08 | Equivalent Parallel R,L,C  | Future |
 | LA09 | Equivalent Series R,L,C  | Future |
-| LA10 | Calculating Ampacity   | Future |
-| LA11 | Calculating Voltage Drop  | Future |
-| LA12 | Calculating Short Circuit Ratings  | Future |
+| LA10 | Calculating Ampacity   |HA02| Future|
+| LA11 | Calculating Voltage Drop   |HA02| Future|
+| LA12 | Calculating Short Circuit Ratings  | HA02|Future |
