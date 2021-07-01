@@ -26,6 +26,7 @@ To design a system which calculates various electrical and electronics parameter
 *   It allows us to convert impedances connected together in a 3-phase configuration from one type of connection to another.
 ### Resistor color code 
 *   The resistor color code was developed during the year 1920. The color bands are printed on the body of tiny resistor components. Generally, for color code, we can use this resistor mnemonic called BBROY. This color-coding shortcut has an acronym for how to identify a resistor value.
+*   The Carbon composition resistors have 3 to 6 resistor color bands. The 3-band resistor has three colors with multiplier and no tolerance.The three bands can be selected to know the resistor value. Whereas, the 4 band, 5 band, and 6 band resistors have an extra band known as tolerance.
 ## Cost and Features
 
 • The advantage of this project the the quickness in which the program works and no need to perform heavy calculation which will be taken care by the program
