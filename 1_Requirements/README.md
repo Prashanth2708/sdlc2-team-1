@@ -33,7 +33,6 @@ To design a system which calculates various electrical and electronics parameter
 *   The equivalent resistance, capacitance and inductance of a circuit can be calculated by their equivalent formulas
 *   Passive components in parallel and series circuits add up in ratios relating to their properties
 
-![Description]()
 
 ### Resistor color code 
 *   The resistor color code was developed during the year 1920. The color bands are printed on the body of tiny resistor components. Generally, for color code, we can use this resistor mnemonic called BBROY. This color-coding shortcut has an acronym for how to identify a resistor value.
