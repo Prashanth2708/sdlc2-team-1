@@ -56,7 +56,7 @@ To design a system which calculates various electrical and electronics parameter
 
 ## When:
 
-• 
+• This problem began in recent years,to simlify calculation process
 ## Where:
 
 • This problem is expected in all over world
