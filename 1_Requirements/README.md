@@ -88,7 +88,7 @@ To design a system which calculates various electrical and electronics parameter
 | LA03 | Finding Equivalent Capacitance | Future |
 | LA04 | Star Delta Conversion | Future |
 | LA05 | Source Transformation | Future |
-| LA06 | Current Divsion Calcualtion | Future |
-| LA07 | Voltage Divsion Calcualtion | Future |
+| LA06 | Current Divsion Calculation | Future |
+| LA07 | Voltage Divsion Calculation | Future |
 | LA08 | Equivalent Parallel R,L,C  | Future |
 | LA09 | Equivalent Series R,L,C  | Future |
