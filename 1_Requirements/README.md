@@ -19,7 +19,6 @@ To design a system which calculates various electrical and electronics parameter
 *   Source transformation is a process of simplifying a circuit solution.
 *   Here we transform voltage source in to current source and vice-verca.
 *   Performing a source transformation consists of using Ohm's law to take an existing voltage source in series with a resistance, and replacing it with a current source in parallel with the same resistance, or vice versa.
-
 ### Star (Y) and Delta (Δ) Conversion
 *   Star and Delta connections are the two types of connections in a 3-phase circuits.
 *   The transformation is used to establish equivalence for networks with three terminals.
@@ -59,3 +58,19 @@ To design a system which calculates various electrical and electronics parameter
 ## How:
 
 • 
+# Detail requirements
+## High Level Requirements
+| ID | Description | Status (Implemented/Future) |
+| ---- | ----------- | --------------------------- |
+| HA01 | Basic Circuit Solver | Future |
+
+
+## Low level Requirements
+| ID | Description | Status (Implemented/Future) |
+| ---- | ----------- | --------------------------- |
+| LA01 | Finding Equivalent Impedance in Series RLC Circuit | Future |
+| LA02 | Finding Power Factor in Series RLC Circuit | Future |
+| LA03 | Finding Equivalent Capacitance | Future |
+| LA04 | Star to Delta Conversion | Future |
+| LA05 | Delta to star Conversion | Future |
+| LA06 | Source Transformation | Future |
