@@ -24,6 +24,17 @@ To design a system which calculates various electrical and electronics parameter
 *   The transformation is used to establish equivalence for networks with three terminals.
 *   Where three elements terminate at a common node and none are sources, the node is eliminated by transforming the impedances.
 *   It allows us to convert impedances connected together in a 3-phase configuration from one type of connection to another.
+### Current Division
+*   The current divider is a simple circuit that provides an output current that is a fraction of the input current
+*   Current division is the splitting of current between branches of the divider
+*   We use the current division rule to find the current in the branches
+### Voltage Division
+*   The voltage across a resistance is equal to the value of the ratio of resistance divided by equivalent 
+*   This rule is used to determine the value of the voltage in a dividor circuit
+### Equivalent Resistance, Capacitance and Inductance of Circuits
+*   The equivalent resistance, capacitance and inductance of a circuit can be calculated by their equivalent formulas
+*   Passive components in parallel and series circuits add up in ratios relating to their properties
+
 ![Description]()
 
 ### Resistor color code 
