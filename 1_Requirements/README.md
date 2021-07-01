@@ -47,19 +47,19 @@ To design a system which calculates various electrical and electronics parameter
 
 ## Who:
 
-• Intended for people who want to calculate current and Voltage Division, Equivalent Resistance, resistor color code, implementation of logic circuits and electrical and electronics formulaes.
+• Intended for people who want to calculate current and Voltage Division, Equivalent Resistance, resistor color code, implementation of logic circuits and electrical and electronics parameters
 
 ## What:
 
-• 
+• It provides you with quick calculation of electrical and electronics parameters
 
 
 ## When:
 
-• This problem began in recent years,to simlify calculation process
+• 
 ## Where:
 
-• This problem is expected in all over world
+• Users can use this application on their desktop or laptop terminal
 
 ## How:
 
