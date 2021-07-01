@@ -67,7 +67,7 @@ To design a system which calculates various electrical and electronics parameter
 
 ## When:
 
-• 
+• When these electronic parameters are required in simple projects or lab work
 ## Where:
 
 • Users can use this application on their desktop or laptop terminal
