@@ -5,11 +5,9 @@ To design a system which calculates various electrical and electronics parameter
 
 ## Research
 ### Cable
-•	The conductor cross-section shall be chosen such that the conductor withstands prospective short circuit current for a specified duration of time.
-
-•	Area of cross-section of the conductor shall be sized to carry estimated load current continuously such that the temperature rise of the conductor is within the acceptable limits for the installation conditions foreseen
-
-•	Voltage drop within the cable is within the permissible limits so that the functionality of the connected load by the cable remains unaffected
+*	The conductor cross-section shall be chosen such that the conductor withstands prospective short circuit current for a specified duration of time.
+*	Area of cross-section of the conductor shall be sized to carry estimated load current continuously such that the temperature rise of the conductor is within the acceptable limits for the installation conditions foreseen
+*	Voltage drop within the cable is within the permissible limits so that the functionality of the connected load by the cable remains unaffected
 ### Series Circuit Analysis
 *   A Circuit is a collection of interconnected components.
 *   We asssume components to be linear in nature.
