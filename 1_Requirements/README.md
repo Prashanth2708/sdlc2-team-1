@@ -78,7 +78,7 @@ To design a system which calculates various electrical and electronics parameter
 | ---- | ----------- | --------------------------- |
 | HA01 | Basic Circuit Solver | Future |
 | HA02 | Cable Capacities | Future |
-| HA03 | Passive Circuit Component Calculations | Future |
+| HA03 | Passive Circuit Components Calculations | Future |
 | HA04 | Voltage and Current Calculations | Future |
 
 
