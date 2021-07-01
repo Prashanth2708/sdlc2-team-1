@@ -1,6 +1,6 @@
 # Multifunctional Electronic Calculator
 
-#### *The project aims to deliver a curated multifunctional calculator which can be very useful to an aspiring electrical and electronics engineer*
+#### *The project aims to deliver a curated multifunctional electronic calculator which can be very useful to an aspiring electrical and electronics engineer*
 
 # Folder Structure
 Folder             | Description
