@@ -91,3 +91,7 @@ To design a system which calculates various electrical and electronics parameter
 | LA04 | Star to Delta Conversion | Future |
 | LA05 | Delta to star Conversion | Future |
 | LA06 | Source Transformation | Future |
+| LA07 | Current Divsion Calcualtion | Future |
+| LA08 | Voltage Divsion Calcualtion | Future |
+| LA09 | Equivalent R,C,L Parallel | Future |
+| LA10 | Equivalent R,C,L Series | Future |
