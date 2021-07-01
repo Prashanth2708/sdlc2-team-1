@@ -78,6 +78,7 @@ To design a system which calculates various electrical and electronics parameter
 | ID | Description | Status (Implemented/Future) |
 | ---- | ----------- | --------------------------- |
 | HA01 | Basic Circuit Solver | Future |
+| HA02 | Cable Capacities | Future |
 
 
 ## Low level Requirements
@@ -92,3 +93,6 @@ To design a system which calculates various electrical and electronics parameter
 | LA07 | Voltage Divsion Calculation | Future |
 | LA08 | Equivalent Parallel R,L,C  | Future |
 | LA09 | Equivalent Series R,L,C  | Future |
+| LA10 | Calculating Ampacity   | Future |
+| LA11 | Calculating Voltage Drop  | Future |
+| LA12 | Calculating Short Circuit Ratings  | Future |
