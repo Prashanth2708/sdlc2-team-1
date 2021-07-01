@@ -53,7 +53,7 @@ To design a system which calculates various electrical and electronics parameter
 • 
 ## Where:
 
-• 
+• This problem is expected in all over world
 
 ## How:
 
