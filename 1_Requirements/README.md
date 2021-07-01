@@ -4,11 +4,29 @@
 To design a system which calculates various electrical and electronics parameter for the user's ease.
 
 ## Research
+### Cable
 •	The conductor cross-section shall be chosen such that the conductor withstands prospective short circuit current for a specified duration of time.
 
 •	Area of cross-section of the conductor shall be sized to carry estimated load current continuously such that the temperature rise of the conductor is within the acceptable limits for the installation conditions foreseen
 
 •	Voltage drop within the cable is within the permissible limits so that the functionality of the connected load by the cable remains unaffected
+### Series Circuit Analysis
+*   A Circuit is a collection of interconnected components.
+*   We asssume components to be linear in nature.
+*   There is no precise C program on this topic .
+*   Hence , I decided to to build a program which can help students to solve problems very quickly.
+*   We will analyze Series circuit , based on input provided by user
+*   We will be mainly focusing on Calculating Equivalent Impedance , Power factor etc.
+### Source Transformation
+*   Source transformation is a process of simplifying a circuit solution.
+*   Here we transform voltage source in to current source and vice-verca.
+*   Performing a source transformation consists of using Ohm's law to take an existing voltage source in series with a resistance, and replacing it with a current source in parallel with the same resistance, or vice versa.
+
+### Star (Y) and Delta (Δ) Conversion
+*   Star and Delta connections are the two types of connections in a 3-phase circuits.
+*   The transformation is used to establish equivalence for networks with three terminals.
+*   Where three elements terminate at a common node and none are sources, the node is eliminated by transforming the impedances.
+*   It allows us to convert impedances connected together in a 3-phase configuration from one type of connection to another.
 
 ## Cost and Features
 
