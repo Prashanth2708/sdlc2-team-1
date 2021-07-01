@@ -47,7 +47,7 @@ To design a system which calculates various electrical and electronics parameter
 
 ## Who:
 
-• Intended for people who want to calculate current and Voltage Division, Equivalent Resistance, resistor color code, implementation of logic circuits and electrical and electronics formulaes
+• Intended for people who want to calculate current and Voltage Division, Equivalent Resistance, resistor color code, implementation of logic circuits and electrical and electronics formulaes.
 
 ## What:
 
