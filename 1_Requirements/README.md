@@ -24,7 +24,8 @@ To design a system which calculates various electrical and electronics parameter
 *   The transformation is used to establish equivalence for networks with three terminals.
 *   Where three elements terminate at a common node and none are sources, the node is eliminated by transforming the impedances.
 *   It allows us to convert impedances connected together in a 3-phase configuration from one type of connection to another.
-
+### Register colour code
+*   The resistor color code was developed during the year 1920. The color bands are printed on the body of tiny resistor components. Generally, for color code, we can use this resistor mnemonic called BBROY. This color-coding shortcut has an acronym for how to identify a resistor value.
 ## Cost and Features
 
 • The advantage of this project the the quickness in which the program works and no need to perform heavy calculation which will be taken care by the program
