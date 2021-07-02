@@ -28,13 +28,13 @@
 #### USE CASE DIAGRAM
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Current%20Voltage.png)
 
-### EQUIVALENT R,L,C SERIES(99004900)
+### EQUIVALENT R,L,C SERIES CIRCUIT(99004900)
 #### ARCHITECTURE
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Series%20Flowchart.png)
 #### USE CASE DIAGRAM
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Series%20UML.png)
 
-### EQUIVALENT R,L,C PARALLEL(99004900)
+### EQUIVALENT R,L,C PARALLEL CIRCUIT(99004900)
 #### ARCHITECTURE
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Parallel%20Flowchart.png)
 #### USE CASE DIAGRAM
