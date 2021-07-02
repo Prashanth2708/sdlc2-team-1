@@ -85,15 +85,14 @@ To design a system which calculates various electrical and electronics parameter
 ## Low level Requirements
 | ID | Description |HLR|Status (Implemented/Future)| 
 | ---- | ----------- | --------------------------- |-----------|
-| LA01 | Finding Equivalent Impedance in Series RLC Circuit | Future |
-| LA02 | Finding Power Factor in Series RLC Circuit | Future |
-| LA03 | Finding Equivalent Capacitance | Future |
-| LA04 | Star Delta Conversion | Future |
-| LA05 | Source Transformation | Future |
-| LA06 | Current Divsion Calculation | Future |
-| LA07 | Voltage Divsion Calculation | Future |
-| LA08 | Equivalent Parallel R,L,C  | Future |
-| LA09 | Equivalent Series R,L,C  | Future |
-| LA10 | Calculating Ampacity   |HA02| Future|
-| LA11 | Calculating Voltage Drop   |HA02| Future|
-| LA12 | Calculating Short Circuit Ratings  | HA02|Future |
+| LA01 | Finding Equivalent Impedance in Series RLC Circuit | HA01 |
+| LA02 | Finding Power Factor in Series RLC Circuit | HA01 |
+| LA03 | Star Delta Conversion | HA01 |
+| LA04 | Source Transformation | HA01 |
+| LA05 | Current Divsion Calculation | Future |
+| LA06 | Voltage Divsion Calculation | Future |
+| LA07 | Equivalent Parallel R,L,C  | Future |
+| LA08 | Equivalent Series R,L,C  | Future |
+| LA09 | Calculating Ampacity   |HA02| Future|
+| LA10 | Calculating Voltage Drop   |HA02| Future|
+| LA11 | Calculating Short Circuit Ratings  | HA02|Future |
