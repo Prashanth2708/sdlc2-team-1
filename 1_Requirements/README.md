@@ -107,7 +107,7 @@ To design a system which calculates various electrical and electronics parameter
 | LA08 | Equivalent Series R,L,C  |HA04| Future |
 | LA09 | Calculating Ampacity   |HA02| Future|
 | LA10 | Calculating Voltage Drop   |HA02| Future|
-| LA11 | Calculating Short Circuit Ratings  | HA02|Future |
+| LA11 | Calculating Derating Factors | HA02|Future |
 | LA12 | Calculation of Rasistance from the rasistor color band  | HA05|Future |
 | LA13 | Calculating Current,Voltage,Rasistance,and other electronic formulas  | HA05|Future |
 | LA14 | Inputting 2 discrete time signals |HA06| Future |
