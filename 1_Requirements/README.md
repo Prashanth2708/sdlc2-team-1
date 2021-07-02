@@ -80,7 +80,8 @@ To design a system which calculates various electrical and electronics parameter
 | HA02 | Cable Capacities | Future |
 | HA03 | Voltage and Current Calculations | Future |
 | HA04 | Passive Circuit Components Calculations | Future |
-| HA05 | calculating resistance based on color code | Future |
+| HA05 | Calculating resistance based on color code | Future |
+| HA06 | Calculating Circular Convolution | Future |
 
 
 
@@ -101,3 +102,6 @@ To design a system which calculates various electrical and electronics parameter
 | LA11 | Calculating Short Circuit Ratings  | HA02|Future |
 | LA12 | Calculation of Rasistance from the rasistor color band  | HA05|Future |
 | LA13 | Calculating Current,Voltage,Rasistance,and other electronic formulas  | HA05|Future |
+| LA14 | Inputting 2 discrete time signals |HA06| Future |
+| LA15 | FFT Calculation for Input time signal as 4 | HA06 | Future |
+| LA16 | FFT Calculation for Input time signal as 8 | HA06 | Future |
