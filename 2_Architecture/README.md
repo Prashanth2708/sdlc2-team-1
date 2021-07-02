@@ -30,7 +30,7 @@
 
 ### EQUIVALENT R,L,C SERIES(99004900)
 #### ARCHITECTURE
-![image]()
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Series%20Flowchart.png)
 #### USE CASE DIAGRAM
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Series%20UML.png)
 
