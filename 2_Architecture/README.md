@@ -50,7 +50,7 @@
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/powefactor%20uml.jpg)
 
 ### Equivalent Impedance
-![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/eqv%20impedance%20uml.jpg)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/eqv%20impedance.jpg)
 
 
 
