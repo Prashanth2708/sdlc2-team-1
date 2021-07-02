@@ -78,8 +78,9 @@ To design a system which calculates various electrical and electronics parameter
 | ---- | ----------- | --------------------------- |
 | HA01 | Basic Circuit Solver | Future |
 | HA02 | Cable Capacities | Future |
-| HA03 | Passive Circuit Components Calculations | Future |
-| HA04 | Voltage and Current Calculations | Future |
+| HA03 | Voltage and Current Calculations | Future |
+| HA04 | Passive Circuit Components Calculations | Future |
+
 
 
 ## Low level Requirements
@@ -89,10 +90,10 @@ To design a system which calculates various electrical and electronics parameter
 | LA02 | Finding Power Factor in Series RLC Circuit | HA01 |
 | LA03 | Star Delta Conversion | HA01 |
 | LA04 | Source Transformation | HA01 |
-| LA05 | Current Divsion Calculation | Future |
-| LA06 | Voltage Divsion Calculation | Future |
-| LA07 | Equivalent Parallel R,L,C  | Future |
-| LA08 | Equivalent Series R,L,C  | Future |
+| LA05 | Current Divsion Calculation |HA03| Future |
+| LA06 | Voltage Divsion Calculation |HA03| Future |
+| LA07 | Equivalent Parallel R,L,C  |HA04| Future |
+| LA08 | Equivalent Series R,L,C  |HA04| Future |
 | LA09 | Calculating Ampacity   |HA02| Future|
 | LA10 | Calculating Voltage Drop   |HA02| Future|
 | LA11 | Calculating Short Circuit Ratings  | HA02|Future |
