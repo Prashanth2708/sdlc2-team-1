@@ -37,6 +37,14 @@ To design a system which calculates various electrical and electronics parameter
 ### Resistor color code 
 *   The resistor color code was developed during the year 1920. The color bands are printed on the body of tiny resistor components. Generally, for color code, we can use this resistor mnemonic called BBROY. This color-coding shortcut has an acronym for how to identify a resistor value.
 *   The Carbon composition resistors have 3 to 6 resistor color bands. The 3-band resistor has three colors with multiplier and no tolerance.The three bands can be selected to know the resistor value. Whereas, the 4 band, 5 band, and 6 band resistors have an extra band known as tolerance.
+
+### Circular Convolution using FFT
+* Normal convolution between two signals can be described as sliding and multiplication of one of the signals reversed against the other signal.
+* FFT is a fast algorithm for execution of DFT. The multiplication of two DFTs is equivalently a circular convolution of the two sequences. 
+* We can make use of DFT for computation of convolution as the circular convolution in time domain is equivalently a multiplication in the DFT domain using a property of convolution. 
+* We need to convert the linear convolution to a circular convolution and then make use of FFT algorithm to reduce the number of computation for filtering. 
+* The procedure to convert the linear convolution to a circular convolution is increase length of each sequence by appending zeros so that it is equal to the length of the resulting convolved sequence. Then circularly convolve the resulting appended sequences
+
 ## Cost and Features
 
 • The advantage of this project the the quickness in which the program works and no need to perform heavy calculation which will be taken care by the program
