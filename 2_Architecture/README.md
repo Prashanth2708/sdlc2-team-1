@@ -35,7 +35,7 @@
 
 ### EQUIVALENT R,L,C PARALLEL(99004900)
 #### ARCHITECTURE
-![image]()
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Parallel%20Flowchart.png)
 #### USE CASE DIAGRAM
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Parallel%20UML.png)
 
