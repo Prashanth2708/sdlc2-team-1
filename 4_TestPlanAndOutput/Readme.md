@@ -6,7 +6,7 @@
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|      
 | H_1 | Basic circuit solver. | - | - | - | Technical | 
 | H_2 | Cable Capacities. | - | - | - | Technical | 
-
+| H_3 | Circuit Calculator | - | - | - | Technical | 
 
 
 
@@ -36,7 +36,11 @@
 | L_11 |derating depth calculation |User input-> Values site_depth=190 and rating=15 | 0.950000| - | Technical |
 | L_11 |derating depth calculation |User input-> Values site_depth=190 and rating=120 | 0.930000 | - | Technical|
 | L_11|derating depth calculation |User input-> Values site_depth=190 and rating=470 | 0.910000 | - | Technical |
-
-
-
-
+| L_08 |Finding Equivalent Resistance in Series RLC Circuit | User input->Value of R |- | - | - |
+| L_08 |Finding Equivalent Capacitance in Series RLC Circuit | User input->Value of C |- | - | - |
+| L_08 |Finding Equivalent Inductance in Series RLC Circuit | User input->Value of L |- | - | - |
+| L_07 |Finding Equivalent Inductance in Parallel RLC Circuit | User input->Value of L |- | - | - |
+| L_07 |Finding Equivalent Capacitance in Parallel RLC Circuit | User input->Value of C |- | - | - |
+| L_07 |Finding Equivalent Resistance in Parallel RLC Circuit | User input->Value of R |- | - | - |
+| L_06 |Finding Voltage from Voltage Division Circuit | User input->Value of Vin,R1,R2 |- | - | - |
+| L_05 |Finding Current from Current Division Circuit | User input->Value of R1,R2,Iin |- | - | - |
