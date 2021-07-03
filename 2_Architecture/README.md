@@ -11,7 +11,8 @@
 
 
 ## COMMUNICATION INFRASTRUCTURE
-(https://user-images.githubusercontent.com/80737226/124351883-a2970a00-dc1a-11eb-9566-71be2046dd35.jpeg)
+![Communication infrastructure](https://user-images.githubusercontent.com/80737226/124351985-3963c680-dc1b-11eb-8872-4b4e604e3f81.png)
+
 ![image](https://user-images.githubusercontent.com/80807460/124281881-cfd6b000-db67-11eb-82f6-ce9cc555586d.png)
 
 
