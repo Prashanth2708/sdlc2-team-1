@@ -9,12 +9,12 @@
 
 
 
-#### COMMUNICATION INFRASTRUCTURE
+## COMMUNICATION INFRASTRUCTURE
 ![image](https://user-images.githubusercontent.com/80807460/124248788-d43ba280-db40-11eb-8c61-0b9a5f69aae8.png)
 
 
 
-## LOW LEVEL REQUIREMTS
+## LOW LEVEL REQUIREMENTS
 ### CABLE CAPACITY(99004903)
 #### ARCHITECTURE
 ![image](https://user-images.githubusercontent.com/80807460/124281821-c3525780-db67-11eb-8a45-65a55160577b.png)
@@ -52,6 +52,11 @@
 
 ### Equivalent Impedance
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/eqv%20impedance.jpg)
+
+### CIRCULAR CONVOLUTION USING FFT
+#### USE CASE DIAGRAM
+![Untitled Workspace](https://user-images.githubusercontent.com/80444408/124343747-96478880-dbeb-11eb-9dfb-680199363ee9.png)
+
 
 
 
