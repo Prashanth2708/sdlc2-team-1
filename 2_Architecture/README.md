@@ -60,10 +60,11 @@
 #### USE CASE DIAGRAM
 ![Untitled Workspace](https://user-images.githubusercontent.com/80444408/124343747-96478880-dbeb-11eb-9dfb-680199363ee9.png)
 
-### Rasistor Color Coding Flow 
+### RESISTOR COLOR CODING FLOWCHART 
 ![Resistor Color coding flow](https://user-images.githubusercontent.com/80737226/124352029-834cac80-dc1b-11eb-853b-0a57cb7b739c.png)
 
-
+#### USE CASE DIAGRAM
+![Rasistor colour coding UML](https://user-images.githubusercontent.com/80737226/124352099-dfafcc00-dc1b-11eb-979a-0740079ac320.png)
 
 
 
