@@ -1,3 +1,4 @@
+![Communication infrastructure](https://user-images.githubusercontent.com/80737226/124351883-a2970a00-dc1a-11eb-9566-71be2046dd35.jpeg)
 # DESIGN
 
 
