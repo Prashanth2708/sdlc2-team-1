@@ -7,6 +7,7 @@
 | H_1 | Basic circuit solver. | - | - | - | Technical | 
 | H_2 | Cable Capacities. | - | - | - | Technical | 
 | H_3 | Circuit Calculator | - | - | - | Technical | 
+| H_4 | Circular Convolution | - | - | - | Technical |
 
 
 
