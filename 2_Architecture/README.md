@@ -1,4 +1,4 @@
-![Communication infrastructure]
+
 # DESIGN
 
 
