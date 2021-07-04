@@ -90,6 +90,7 @@ To design a system which calculates various electrical and electronics parameter
 | HA04 | Passive Circuit Components Calculations | Future |
 | HA05 | Calculating resistance based on color code | Future |
 | HA06 | Calculating Circular Convolution | Future |
+| HA07 | Calculation of Electronic formula | Future |
 
 
 
