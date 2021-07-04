@@ -1,0 +1,8 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "unity.h": "c",
+        "unity_internals.h": "c",
+        "series.h": "c"
+    }
+}
