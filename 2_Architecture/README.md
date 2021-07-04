@@ -4,7 +4,7 @@
 
 ## HIGH LEVEL REQUIREMENT
 ![image](https://user-images.githubusercontent.com/80807460/124340715-c3d50780-dbd4-11eb-93e1-31572729eab1.png)
-
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/HLD.png)
 
 
 
