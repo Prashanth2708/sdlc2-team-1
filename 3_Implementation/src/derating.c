@@ -1,5 +1,6 @@
 #include"../inc/cable.h"
 #include<math.h>
+#include<stdio.h>
 
 //the derating factors is according to IEC standards which seperates the standards and the site conditions.
 float calculate_derating_depth(float site_depth,float rating_factor)
