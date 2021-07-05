@@ -13,7 +13,7 @@
 ## COMMUNICATION INFRASTRUCTURE
 ![Communication infrastructure](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Communication%20infrastructure.png)
 
-![image](https://user-images.githubusercontent.com/80807460/124281881-cfd6b000-db67-11eb-82f6-ce9cc555586d.png)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Communication%20infrastructure.png)
 
 
 
@@ -22,7 +22,7 @@
 ## LOW LEVEL REQUIREMENTS
 ### CABLE CAPACITY(99004903)
 #### ARCHITECTURE
-![image](https://user-images.githubusercontent.com/80807460/124281821-c3525780-db67-11eb-8a45-65a55160577b.png)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/cable%20capacity%20architecture.png)
 #### USE CASE DIAGRAM
 
 
