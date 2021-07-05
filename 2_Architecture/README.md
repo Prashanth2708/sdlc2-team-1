@@ -69,6 +69,10 @@
 #### USE CASE DIAGRAM
 ![Rasistor colour coding UML](https://user-images.githubusercontent.com/80737226/124352099-dfafcc00-dc1b-11eb-979a-0740079ac320.png)
 
+### Formula calculator
+![Formula Calculator](https://user-images.githubusercontent.com/80737226/124422341-c2484280-dd80-11eb-829c-744d80e809ad.PNG)
+
+
 
 
 
