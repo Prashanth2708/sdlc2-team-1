@@ -3,15 +3,15 @@
 
 
 ## HIGH LEVEL REQUIREMENT
-![image](https://user-images.githubusercontent.com/80807460/124340715-c3d50780-dbd4-11eb-93e1-31572729eab1.png)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/HLD%203%20added.png)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/HLD%20(2)%20added.png)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/HLD%203%20added.png)
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/HLD.png)
 
 
 
-
-
 ## COMMUNICATION INFRASTRUCTURE
-![Communication infrastructure](https://user-images.githubusercontent.com/80737226/124351985-3963c680-dc1b-11eb-8872-4b4e604e3f81.png)
+![Communication infrastructure](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Communication%20infrastructure.png)
 
 ![image](https://user-images.githubusercontent.com/80807460/124281881-cfd6b000-db67-11eb-82f6-ce9cc555586d.png)
 
@@ -45,32 +45,32 @@
 ![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Parallel%20UML.png)
 
 ### Star Delta Conversion
-![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Star%20Delta%20%20uml%20diagram.jpg)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Star%20Delta%20%20uml%20diagram.png)
 
 ### Source Transformation
-![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Source%20transformation%20uml.jpg)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Source%20transformation%20uml.png)
 
 ### Power Factor
-![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/powefactor%20uml.jpg)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/powefactor%20uml.png)
 
 ### Equivalent Impedance
-![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/eqv%20impedance.jpg)
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/eqv%20impedance.png)
 
 ### CIRCULAR CONVOLUTION USING FFT
 #### USE CASE DIAGRAM
-![Untitled Workspace](https://user-images.githubusercontent.com/80444408/124343747-96478880-dbeb-11eb-9dfb-680199363ee9.png)
+![Untitled Workspace](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Circular%20Convolution%20Use%20Case%20Diagram.png)
 
 #### ARCHITECTURE DIAGRAM
-
+![image](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Circular%20Convolution%20Architecture%20Diagram.png)
 
 ### RESISTOR COLOR CODING FLOWCHART 
-![Resistor Color coding flow](https://user-images.githubusercontent.com/80737226/124352029-834cac80-dc1b-11eb-853b-0a57cb7b739c.png)
+![Resistor Color coding flow](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Resistor%20Color%20coding%20flow.png)
 
 #### USE CASE DIAGRAM
-![Rasistor colour coding UML](https://user-images.githubusercontent.com/80737226/124352099-dfafcc00-dc1b-11eb-979a-0740079ac320.png)
+![Rasistor colour coding UML](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Rasistor%20colour%20coding%20UML.png)
 
 ### Formula calculator
-![Formula Calculator](https://user-images.githubusercontent.com/80737226/124422341-c2484280-dd80-11eb-829c-744d80e809ad.PNG)
+![Formula Calculator](https://github.com/GENESIS2021Q1/sdlc2-team-1/blob/main/6_Images_and_Videos/Formula%20Calculator.PNG)
 
 
 
