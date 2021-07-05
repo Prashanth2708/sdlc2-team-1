@@ -77,20 +77,17 @@ To design a system which calculates various electrical and electronics parameter
 
 • Users can use this application on their desktop or laptop terminal
 
-## How:
-
-• 
 # Detail requirements
 ## High Level Requirements
 | ID | Description | Status (Implemented/Future) |
 | ---- | ----------- | --------------------------- |
-| HA01 | Basic Circuit Solver | Future |
-| HA02 | Cable Capacities | Future |
-| HA03 | Voltage and Current Calculations | Future |
-| HA04 | Passive Circuit Components Calculations | Future |
-| HA05 | Calculating resistance based on color code | Future |
-| HA06 | Calculating Circular Convolution | Future |
-| HA07 | Calculation of Electronic formula | Future |
+| HA01 | Basic Circuit Solver | Implemented|
+| HA02 | Cable Capacities | Implemented |
+| HA03 | Voltage and Current Calculations | Implemented |
+| HA04 | Passive Circuit Components Calculations | Implemented |
+| HA05 | Calculating resistance based on color code | Implemented |
+| HA06 | Calculating Circular Convolution | Implemented |
+| HA07 | Calculation of Electronic formula | Implemented |
 
 
 
@@ -98,19 +95,19 @@ To design a system which calculates various electrical and electronics parameter
 ## Low level Requirements
 | ID | Description |HLR|Status (Implemented/Future)| 
 | ---- | ----------- | --------------------------- |-----------|
-| LA01 | Finding Equivalent Impedance in Series RLC Circuit | HA01 |
-| LA02 | Finding Power Factor in Series RLC Circuit | HA01 |
-| LA03 | Star Delta Conversion | HA01 |
-| LA04 | Source Transformation | HA01 |
-| LA05 | Current Divsion Calculation |HA03| Future |
-| LA06 | Voltage Divsion Calculation |HA03| Future |
-| LA07 | Equivalent Parallel R,L,C  |HA04| Future |
-| LA08 | Equivalent Series R,L,C  |HA04| Future |
-| LA09 | Calculating Ampacity   |HA02| Future|
-| LA10 | Calculating Voltage Drop   |HA02| Future|
-| LA11 | Calculating Derating Factors | HA02|Future |
-| LA12 | Calculation of Rasistance from the rasistor color band  | HA05|Future |
-| LA13 | Calculating Current,Voltage,Rasistance,and other electronic formulas  | HA05|Future |
-| LA14 | Inputting 2 discrete time signals |HA06| Future |
-| LA15 | FFT Calculation for Input time signal as 4 | HA06 | Future |
-| LA16 | FFT Calculation for Input time signal as 8 | HA06 | Future |
+| LA01 | Finding Equivalent Impedance in Series RLC Circuit | HA01 |Implemented|
+| LA02 | Finding Power Factor in Series RLC Circuit | HA01 |Implemented|
+| LA03 | Star Delta Conversion | HA01 |Implemented|
+| LA04 | Source Transformation | HA01 |Implemented|
+| LA05 | Current Divsion Calculation |HA03| Implemented|
+| LA06 | Voltage Divsion Calculation |HA03| Implemented|
+| LA07 | Equivalent Parallel R,L,C  |HA04| Implemented|
+| LA08 | Equivalent Series R,L,C  |HA04| Implemented|
+| LA09 | Calculating Ampacity   |HA02| Implemented|
+| LA10 | Calculating Voltage Drop   |HA02| Implemented|
+| LA11 | Calculating Derating Factors | HA02|Implemented|
+| LA12 | Calculation of Rasistance from the rasistor color band  | HA05|Implemented|
+| LA13 | Calculating Current,Voltage,Rasistance,and other electronic formulas  | HA05|Implemented|
+| LA14 | Inputting 2 discrete time signals |HA06| Implemented|
+| LA15 | FFT Calculation for Input time signal as 4 | HA06 | Implemented|
+| LA16 | FFT Calculation for Input time signal as 8 | HA06 | Implemented|
