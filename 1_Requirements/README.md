@@ -56,6 +56,8 @@ To design a system which calculates various electrical and electronics parameter
 • The system will be getting some essential paramenters from the user and it will compute the values and with which it will be able to choose or design the product.
    
    ## SWOT ANALYSIS
+   ![Off White and Black SWOT Analysis Chart (2)](https://user-images.githubusercontent.com/80444408/124426758-1b67a480-dd88-11eb-8dc8-3cfec9dff8d2.png)
+
   
 
    # 4W&#39;s and 1&#39;H
