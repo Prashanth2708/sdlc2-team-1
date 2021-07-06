@@ -3,6 +3,13 @@
 #### *The project aims to deliver a curated multifunctional electronic calculator which can be very useful to an aspiring electrical and electronics engineer*
 ![Plan and prepare](https://user-images.githubusercontent.com/80444408/124429895-14429580-dd8c-11eb-8152-ad048d59db7f.png)
 
+BUILD              | CODE QUALITY                             |UNITY     |
+-------------------| -----------------------------------------|----------|
+                   |  | |
+                   
+CPP-CHECK          | VALGRIND                             |GIT-INSPECTOR|
+-------------------| -----------------------------------------|----------|
+                   |                  |         |                   
 
 # Folder Structure
 Folder             | Description
