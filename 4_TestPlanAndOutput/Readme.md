@@ -4,10 +4,10 @@
 
 | **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |          
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|      
-| H_1 | Basic circuit solver. | - | - | - | Technical | 
-| H_2 | Cable Capacities. | - | - | - | Technical | 
-| H_3 | Circuit Calculator | - | - | - | Technical | 
-| H_4 | Circular Convolution | - | - | - | Technical |
+| H_1 | Basic circuit solver. | ciruit parameters | Success | Success | Technical | 
+| H_2 | Cable Capacities. | cable associated parameters | Success | Success | Technical | 
+| H_3 | Circuit Calculator | passive element parameters | Success | Success | Technical | 
+| H_4 | Circular Convolution | Convolution parameters | Success | Success | Technical |
 
 
 
