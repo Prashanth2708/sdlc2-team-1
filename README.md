@@ -5,7 +5,7 @@
 
 BUILD              | CODE QUALITY                             |UNITY     |
 -------------------| -----------------------------------------|----------|
-[![C/C++ CI - Build Status](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/C-build.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/C-build.yml)|  | |
+[![C/C++ CI - Build Status](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/C-build.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/C-build.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/cppcheck.yml)  | |
                    
 CPP-CHECK          | VALGRIND                             |GIT-INSPECTOR|
 -------------------| -----------------------------------------|----------|
