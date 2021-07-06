@@ -5,7 +5,7 @@
 
 BUILD              | CODE QUALITY                             |UNITY     |
 -------------------| -----------------------------------------|----------|
-                  |  | |
+     [![C/C++ CI - Build Status](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/C-build.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/C-build.yml)              |  | |
                    
 CPP-CHECK          | VALGRIND                             |GIT-INSPECTOR|
 -------------------| -----------------------------------------|----------|
