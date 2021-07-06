@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
-#define max 64
 #include "../inc/Circular_Convo_FFT.h"
+#define max 64
 
 
 void circular_convolution()
