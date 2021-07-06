@@ -55,11 +55,11 @@ void current_division()
  */
 int division()
 {
-    char choice;
+    int choice;
     printf("\nDo you want to calculate Current Division or Voltage Division? \n");
-    printf("\n Enter \n 1) 'V' for Voltage Division \n 2) 'C' for Current Division \n");
-    scanf("%c",&choice);
-    if(choice=='v'||choice=='V')
+    printf("\n Enter \nPress 1 for Voltage Division \nPress 2 for Current Division \n");
+    scanf("%d",&choice);
+    if(choice==1)
     {
             double input_voltage, load_resistance,resistance2,output_voltage;
             printf("\n Enter the input voltage in Volts\n");
@@ -73,7 +73,7 @@ int division()
             output_voltage=voltage_division(input_voltage, load_resistance, resistance2);
             printf("\n Output Voltage=%lf Volts",output_voltage);
     }
-    if(choice=='c'||choice=='C')
+    if(choice==2)
     {
 
         current_division();

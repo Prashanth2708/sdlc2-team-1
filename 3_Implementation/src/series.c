@@ -75,12 +75,12 @@ double series_capacitance(int number_of_capacitors, double capacitor[])
  */
 int series()
 {
-   char choice;
+   int choice;
    printf("\nEnter which passive element's series equivalent you want to find \n");
-   printf("\n Enter \n 1) 'R' for Resistance \n 2) 'C' for Capacitance \n 3) 'L' for Inductance\n");
-   scanf("%c", &choice);
+   printf("\n Enter \nPress 1 'R' for Resistance \nPress 2 'C' for Capacitance \nPress 3 'L' for Inductance\n");
+   scanf("%d", &choice);
 
-   if (choice == 'r' || choice == 'R')
+   if (choice == 1)
 
    {
       int number_of_resistance, loop_counter = 0;
@@ -99,7 +99,7 @@ int series()
       series_equivalent_resistance = series_resistance(number_of_resistance, resistance);
       printf("\nEquivalent Series Resistance : %lf Ohms", series_equivalent_resistance);
    }
-   if (choice == 'c' || choice == 'C')
+   if (choice == 2)
    {
       int number_of_capacitors, loop_counter = 0;
       double capacitor[100], series_equivalent_capacitance = 0;
@@ -117,7 +117,7 @@ int series()
       series_equivalent_capacitance = series_capacitance(number_of_capacitors,capacitor);
       printf("\nEquivalent Series Capacitance : %lf microFarads", series_equivalent_capacitance);
    }
-   if (choice == 'l' || choice == 'L')
+   if (choice == 3)
    {
       int number_of_inductors, loop_counter = 0;
       double inductor[100], series_equivalent_inductor = 0;

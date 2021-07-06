@@ -13,4 +13,6 @@
 double series_resistance(int,double*);
 double series_inductance(int,double*);
 double series_capacitance(int,double*);
+int series();
+int calulate();
 #endif

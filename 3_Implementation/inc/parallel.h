@@ -13,4 +13,5 @@
 double parallel_resistance(int,double*);
 double parallel_inductance(int,double*);
 double parallel_capacitance(int,double*);
+int parallel();
 #endif

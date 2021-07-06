@@ -73,11 +73,11 @@ double parallel_capacitance(int number_of_capacitors, double capacitor[])
  */
 int parallel()
 {
-   char choice;
+   int choice;
    printf("\nEnter which passive element's parallel equivalent you want to find \n");
-   printf("\n Enter \n 1) 'R' for Resistance \n 2) 'C' for Capacitance \n 3) 'L' for Inductance\n");
-   scanf("%c", &choice);
-   if (choice == 'r' || choice == 'R')
+   printf("\n Enter \nPress 1 'R' for Resistance \nPress 2 'C' for Capacitance \nPress 3 'L' for Inductance\n");
+   scanf("%d", &choice);
+   if (choice == 1)
    {
       int number_of_resistance, loop_counter = 0;
       double resistance[100], parallel_equivalent_resistance = 0;
@@ -96,7 +96,7 @@ int parallel()
       parallel_equivalent_resistance = parallel_resistance(number_of_resistance, resistance);
       printf("\nEquivalent Parallel Resistance : %lf Ohms", parallel_equivalent_resistance);
    }
-   if (choice == 'c' || choice == 'C')
+   if (choice == 2)
    {
       int number_of_capacitors, loop_counter=0;
       double capacitor[100],parallel_equivalent_capacitance;
@@ -114,7 +114,7 @@ int parallel()
       printf("\nEquivalent Parallel Capacitance : %lf microFarads", parallel_equivalent_capacitance);
    }
    
-   if (choice == 'l' || choice == 'L')
+   if (choice == 3)
    {
       int number_of_inductors, loop_counter = 0;
       double inductor[100], parallel_equivalent_inductor = 0;
