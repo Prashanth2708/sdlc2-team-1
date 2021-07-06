@@ -23,12 +23,4 @@ Folder             | Description
 `7_Others   `      | Documents with Data Sheets
 
 
-## How to Run 
 
-```sh
-# For Building the main application
-make all
-# For Running the main application
-make run
-# For Building the test file
-make test
