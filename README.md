@@ -9,7 +9,7 @@ BUILD              | CODE QUALITY                             |UNITY     |
                    
 CPP-CHECK          | VALGRIND                             |GIT-INSPECTOR|
 -------------------| -----------------------------------------|----------|
-[![Code Quality - Static Code - Cppcheck](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/ValgrindTest.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/ValgrindTest.yml)|          |                 
+[![Code Quality - Static Code - Cppcheck](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/cppcheck.yml)|[![Valgrind](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/ValgrindTest.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/ValgrindTest.yml)|[![Contribution Check - Git Inspector](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/GENESIS2021Q1/sdlc2-team-1/actions/workflows/gitinspector.yml)|                 
 
 # Folder Structure
 Folder             | Description
