@@ -15,10 +15,10 @@
 
 | **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-| L_1 |Finding Equivalent Impedance in Series RLC Circuit | User input->Value of R,L,C,w |- | Success | Requirement |
-| L_2 |Finding Power Factor in Series RLC Circuit |User input->Value of R,L,C,w | - |Success |Requirement |
-| L_3 |Star Delta Conversion |User input->Corresponding values of R,L,C | - | Success | Requirement |
-| L_4 |Source Transformation |User input-> Values of Resistance and sources | - | Success |Requirement |
+| L_1 |Finding Equivalent Impedance in Series RLC Circuit | User input->Value of R,L,C,w |Success | Success | Requirement |
+| L_2 |Finding Power Factor in Series RLC Circuit |User input->Value of R,L,C,w | Success |Success |Requirement |
+| L_3 |Star Delta Conversion |User input->Corresponding values of R,L,C | Success | Success | Requirement |
+| L_4 |Source Transformation |User input-> Values of Resistance and sources | Success | Success |Requirement |
 | L_9 |Ampacity calculation |User input-> Values system voltage=0.415 and transformer rating=200 |143.760208  | Success | Requirement |
 | L_9 |Ampacity calculation |User input-> Values system voltage=2 and transformer rating=13 | 450.033321| Success |Requirement |
 | L_10 |Voltage drop  calculation |User input-> Ampacity=143.7,systemvoltage=0.415,pf=0.8,Length=100,resistance=1.035,reactance=5.233|23796  | Success | Requirement |
