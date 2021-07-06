@@ -45,5 +45,6 @@
 | L_07 |Finding Equivalent Resistance in Parallel RLC Circuit | User input-> Values R1,R2,R3=10,10,10 | 3.333333 | Success | Requirement |
 | L_06 |Finding Voltage from Voltage Division Circuit | User input->Value of Vin=10,R1=20,R2=30 | 4.000000 | Success | Requirement |
 | L_05 |Finding Current from Current Division Circuit | User input->Value of R1=30,R2=40,Iin=20 |I1=11.428571,I2=8.571429 |Success | Requirement |
-| L_11|Resistor color coding |User input-> Band1 - green ,Band2 - Black ,Band3 - yellow | 500k ohms | Success | Requirement|
-
+| L_12|Resistor color coding |User input-> Band1 - green ,Band2 - Black ,Band3 - yellow | 500k ohms | Success | Requirement|
+| L_12|Resistor color coding |User input-> Band1 - red ,Band2 - red ,Band3 - red | 220k ohms | Success | Requirement|
+| L_13 |Electronic formula calculator |User input->Corresponding values of R,L,C | - | Success | Requirement |
